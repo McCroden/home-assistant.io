@@ -28,7 +28,7 @@ This section explains how to generate a client ID and client secret on
 1. In the left sidebar, select **OAuth consent screen**.
 1. It will take you to the Overview page and ask for **Project Configuration**:
    - Complete the App Information:
-      - Set the **App name** (the name of the application asking for consent) to anything you want, e.g., *Home Assistant*.
+      - Set the **App name** (the name of the application asking for consent) to anything you want, for example, *Home Assistant*.
       - For a **Support email**, choose your email address from the dropdown menu.
       - Click **Next**.
    - For Audience, select **External** then click  **Next**.
